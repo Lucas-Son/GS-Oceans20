@@ -17,3 +17,5 @@ Depende da ação humana para o refil do deposito da mistura.
 
 Demais informações:
 O Túnel feito de metal inoxidavel, possui um deposito para a armazenamento da mistura de pó de ferro e oleo vegetal, um dispensador da mistura, um sensor para detectar a quantidade de mistura e um painel que demonstra a quantidade da mistura.
+
+LINK DO TINKERCAD: https://www.tinkercad.com/things/2AAJNHTYG8m-projeto-gs?sharecode=juwLQwEYlImcIEvouovvPt0QZ_xiF-RwLA1-NP-hsLE
