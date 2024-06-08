@@ -1,5 +1,6 @@
 # GS-Oceans20
-
+Lucas Son- RM554724
+Enzo Miletta - RM98677
 Repositorio do trabalho de edge para a GS
  
 Detalhes do projeto: 
